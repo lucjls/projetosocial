@@ -1,6 +1,7 @@
 @charset "UTF-8";
 
-<style>
+
+
 * {
     margin: 0px;
     padding: 0px;
@@ -11,7 +12,8 @@
     height: 0px;
 }
 img {
-    width: 94vw; 
+    width: 100vw;
+    
 }
 a {
     display:block;
@@ -25,4 +27,3 @@ a {
 a:hover {
     background-color: red;
 }
-</style>
